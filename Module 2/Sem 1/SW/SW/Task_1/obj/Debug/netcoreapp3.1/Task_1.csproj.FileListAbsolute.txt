@@ -1,0 +1,13 @@
+C:\Users\pasha\source\repos\207ShulminPavel2\Module 2\Sem 1\SW\SW\Task_1\bin\Debug\netcoreapp3.1\Task_1.exe
+C:\Users\pasha\source\repos\207ShulminPavel2\Module 2\Sem 1\SW\SW\Task_1\bin\Debug\netcoreapp3.1\Task_1.deps.json
+C:\Users\pasha\source\repos\207ShulminPavel2\Module 2\Sem 1\SW\SW\Task_1\bin\Debug\netcoreapp3.1\Task_1.runtimeconfig.json
+C:\Users\pasha\source\repos\207ShulminPavel2\Module 2\Sem 1\SW\SW\Task_1\bin\Debug\netcoreapp3.1\Task_1.runtimeconfig.dev.json
+C:\Users\pasha\source\repos\207ShulminPavel2\Module 2\Sem 1\SW\SW\Task_1\bin\Debug\netcoreapp3.1\Task_1.dll
+C:\Users\pasha\source\repos\207ShulminPavel2\Module 2\Sem 1\SW\SW\Task_1\bin\Debug\netcoreapp3.1\Task_1.pdb
+C:\Users\pasha\source\repos\207ShulminPavel2\Module 2\Sem 1\SW\SW\Task_1\obj\Debug\netcoreapp3.1\Task_1.csprojAssemblyReference.cache
+C:\Users\pasha\source\repos\207ShulminPavel2\Module 2\Sem 1\SW\SW\Task_1\obj\Debug\netcoreapp3.1\Task_1.AssemblyInfoInputs.cache
+C:\Users\pasha\source\repos\207ShulminPavel2\Module 2\Sem 1\SW\SW\Task_1\obj\Debug\netcoreapp3.1\Task_1.AssemblyInfo.cs
+C:\Users\pasha\source\repos\207ShulminPavel2\Module 2\Sem 1\SW\SW\Task_1\obj\Debug\netcoreapp3.1\Task_1.csproj.CoreCompileInputs.cache
+C:\Users\pasha\source\repos\207ShulminPavel2\Module 2\Sem 1\SW\SW\Task_1\obj\Debug\netcoreapp3.1\Task_1.dll
+C:\Users\pasha\source\repos\207ShulminPavel2\Module 2\Sem 1\SW\SW\Task_1\obj\Debug\netcoreapp3.1\Task_1.pdb
+C:\Users\pasha\source\repos\207ShulminPavel2\Module 2\Sem 1\SW\SW\Task_1\obj\Debug\netcoreapp3.1\Task_1.genruntimeconfig.cache
