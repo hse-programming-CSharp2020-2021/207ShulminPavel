@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\pasha\\source\\repos\\207ShulminPavel2\\Module 2\\Sem 1\\SW\\SW\\Task_1\\Task_1.csproj",
+      "projectUniqueName": "C:\\Users\\pasha\\source\\repos\\207ShulminPavel2\\Module 2\\Sem 1\\SW\\Task_1\\Task_1.csproj",
       "projectName": "Task_1",
-      "projectPath": "C:\\Users\\pasha\\source\\repos\\207ShulminPavel2\\Module 2\\Sem 1\\SW\\SW\\Task_1\\Task_1.csproj",
+      "projectPath": "C:\\Users\\pasha\\source\\repos\\207ShulminPavel2\\Module 2\\Sem 1\\SW\\Task_1\\Task_1.csproj",
       "packagesPath": "C:\\Users\\pasha\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\pasha\\source\\repos\\207ShulminPavel2\\Module 2\\Sem 1\\SW\\SW\\Task_1\\obj\\",
+      "outputPath": "C:\\Users\\pasha\\source\\repos\\207ShulminPavel2\\Module 2\\Sem 1\\SW\\Task_1\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\pasha\\AppData\\Roaming\\NuGet\\NuGet.Config",
