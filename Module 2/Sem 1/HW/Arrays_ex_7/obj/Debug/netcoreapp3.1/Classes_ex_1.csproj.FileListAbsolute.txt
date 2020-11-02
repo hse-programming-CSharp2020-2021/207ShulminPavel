@@ -1,0 +1,13 @@
+C:\Users\pasha\source\repos\207ShulminPavel2\Module 2\Sem 1\HW\Arrays_ex_7\bin\Debug\netcoreapp3.1\Classes_ex_1.exe
+C:\Users\pasha\source\repos\207ShulminPavel2\Module 2\Sem 1\HW\Arrays_ex_7\bin\Debug\netcoreapp3.1\Classes_ex_1.deps.json
+C:\Users\pasha\source\repos\207ShulminPavel2\Module 2\Sem 1\HW\Arrays_ex_7\bin\Debug\netcoreapp3.1\Classes_ex_1.runtimeconfig.json
+C:\Users\pasha\source\repos\207ShulminPavel2\Module 2\Sem 1\HW\Arrays_ex_7\bin\Debug\netcoreapp3.1\Classes_ex_1.runtimeconfig.dev.json
+C:\Users\pasha\source\repos\207ShulminPavel2\Module 2\Sem 1\HW\Arrays_ex_7\bin\Debug\netcoreapp3.1\Classes_ex_1.dll
+C:\Users\pasha\source\repos\207ShulminPavel2\Module 2\Sem 1\HW\Arrays_ex_7\bin\Debug\netcoreapp3.1\Classes_ex_1.pdb
+C:\Users\pasha\source\repos\207ShulminPavel2\Module 2\Sem 1\HW\Arrays_ex_7\obj\Debug\netcoreapp3.1\Classes_ex_1.csprojAssemblyReference.cache
+C:\Users\pasha\source\repos\207ShulminPavel2\Module 2\Sem 1\HW\Arrays_ex_7\obj\Debug\netcoreapp3.1\Classes_ex_1.AssemblyInfoInputs.cache
+C:\Users\pasha\source\repos\207ShulminPavel2\Module 2\Sem 1\HW\Arrays_ex_7\obj\Debug\netcoreapp3.1\Classes_ex_1.AssemblyInfo.cs
+C:\Users\pasha\source\repos\207ShulminPavel2\Module 2\Sem 1\HW\Arrays_ex_7\obj\Debug\netcoreapp3.1\Classes_ex_1.csproj.CoreCompileInputs.cache
+C:\Users\pasha\source\repos\207ShulminPavel2\Module 2\Sem 1\HW\Arrays_ex_7\obj\Debug\netcoreapp3.1\Classes_ex_1.dll
+C:\Users\pasha\source\repos\207ShulminPavel2\Module 2\Sem 1\HW\Arrays_ex_7\obj\Debug\netcoreapp3.1\Classes_ex_1.pdb
+C:\Users\pasha\source\repos\207ShulminPavel2\Module 2\Sem 1\HW\Arrays_ex_7\obj\Debug\netcoreapp3.1\Classes_ex_1.genruntimeconfig.cache
