@@ -1,0 +1,10 @@
+C:\Users\pasha\source\repos\207ShulminPavel2\Module 2\Sem 7\SW\Ex 1\bin\Debug\Ex 1.exe.config
+C:\Users\pasha\source\repos\207ShulminPavel2\Module 2\Sem 7\SW\Ex 1\bin\Debug\Ex 1.exe
+C:\Users\pasha\source\repos\207ShulminPavel2\Module 2\Sem 7\SW\Ex 1\bin\Debug\Ex 1.pdb
+C:\Users\pasha\source\repos\207ShulminPavel2\Module 2\Sem 7\SW\Ex 1\obj\Debug\Ex 1.csprojAssemblyReference.cache
+C:\Users\pasha\source\repos\207ShulminPavel2\Module 2\Sem 7\SW\Ex 1\obj\Debug\Ex_1.Form1.resources
+C:\Users\pasha\source\repos\207ShulminPavel2\Module 2\Sem 7\SW\Ex 1\obj\Debug\Ex_1.Properties.Resources.resources
+C:\Users\pasha\source\repos\207ShulminPavel2\Module 2\Sem 7\SW\Ex 1\obj\Debug\Ex 1.csproj.GenerateResource.cache
+C:\Users\pasha\source\repos\207ShulminPavel2\Module 2\Sem 7\SW\Ex 1\obj\Debug\Ex 1.csproj.CoreCompileInputs.cache
+C:\Users\pasha\source\repos\207ShulminPavel2\Module 2\Sem 7\SW\Ex 1\obj\Debug\Ex 1.exe
+C:\Users\pasha\source\repos\207ShulminPavel2\Module 2\Sem 7\SW\Ex 1\obj\Debug\Ex 1.pdb
