@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Ex6_from_pres/1.0.0": {
+        "runtime": {
+          "Ex6_from_pres.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Ex6_from_pres/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,13 @@
+C:\Users\pasha\source\repos\207ShulminPavel2\Module 3\Sem 3\HW\Ex6_from_pres\bin\Debug\netcoreapp3.1\Ex6_from_pres.exe
+C:\Users\pasha\source\repos\207ShulminPavel2\Module 3\Sem 3\HW\Ex6_from_pres\bin\Debug\netcoreapp3.1\Ex6_from_pres.deps.json
+C:\Users\pasha\source\repos\207ShulminPavel2\Module 3\Sem 3\HW\Ex6_from_pres\bin\Debug\netcoreapp3.1\Ex6_from_pres.runtimeconfig.json
+C:\Users\pasha\source\repos\207ShulminPavel2\Module 3\Sem 3\HW\Ex6_from_pres\bin\Debug\netcoreapp3.1\Ex6_from_pres.runtimeconfig.dev.json
+C:\Users\pasha\source\repos\207ShulminPavel2\Module 3\Sem 3\HW\Ex6_from_pres\bin\Debug\netcoreapp3.1\Ex6_from_pres.dll
+C:\Users\pasha\source\repos\207ShulminPavel2\Module 3\Sem 3\HW\Ex6_from_pres\bin\Debug\netcoreapp3.1\Ex6_from_pres.pdb
+C:\Users\pasha\source\repos\207ShulminPavel2\Module 3\Sem 3\HW\Ex6_from_pres\obj\Debug\netcoreapp3.1\Ex6_from_pres.csprojAssemblyReference.cache
+C:\Users\pasha\source\repos\207ShulminPavel2\Module 3\Sem 3\HW\Ex6_from_pres\obj\Debug\netcoreapp3.1\Ex6_from_pres.AssemblyInfoInputs.cache
+C:\Users\pasha\source\repos\207ShulminPavel2\Module 3\Sem 3\HW\Ex6_from_pres\obj\Debug\netcoreapp3.1\Ex6_from_pres.AssemblyInfo.cs
+C:\Users\pasha\source\repos\207ShulminPavel2\Module 3\Sem 3\HW\Ex6_from_pres\obj\Debug\netcoreapp3.1\Ex6_from_pres.csproj.CoreCompileInputs.cache
+C:\Users\pasha\source\repos\207ShulminPavel2\Module 3\Sem 3\HW\Ex6_from_pres\obj\Debug\netcoreapp3.1\Ex6_from_pres.dll
+C:\Users\pasha\source\repos\207ShulminPavel2\Module 3\Sem 3\HW\Ex6_from_pres\obj\Debug\netcoreapp3.1\Ex6_from_pres.pdb
+C:\Users\pasha\source\repos\207ShulminPavel2\Module 3\Sem 3\HW\Ex6_from_pres\obj\Debug\netcoreapp3.1\Ex6_from_pres.genruntimeconfig.cache
