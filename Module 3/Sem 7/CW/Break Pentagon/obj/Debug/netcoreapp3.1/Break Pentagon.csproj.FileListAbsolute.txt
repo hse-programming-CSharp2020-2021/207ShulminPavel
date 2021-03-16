@@ -1,0 +1,13 @@
+C:\Users\pasha\source\repos\207ShulminPavel2\Module 3\Sem 7\CW\Break Pentagon\bin\Debug\netcoreapp3.1\Break Pentagon.exe
+C:\Users\pasha\source\repos\207ShulminPavel2\Module 3\Sem 7\CW\Break Pentagon\bin\Debug\netcoreapp3.1\Break Pentagon.deps.json
+C:\Users\pasha\source\repos\207ShulminPavel2\Module 3\Sem 7\CW\Break Pentagon\bin\Debug\netcoreapp3.1\Break Pentagon.runtimeconfig.json
+C:\Users\pasha\source\repos\207ShulminPavel2\Module 3\Sem 7\CW\Break Pentagon\bin\Debug\netcoreapp3.1\Break Pentagon.runtimeconfig.dev.json
+C:\Users\pasha\source\repos\207ShulminPavel2\Module 3\Sem 7\CW\Break Pentagon\bin\Debug\netcoreapp3.1\Break Pentagon.dll
+C:\Users\pasha\source\repos\207ShulminPavel2\Module 3\Sem 7\CW\Break Pentagon\bin\Debug\netcoreapp3.1\Break Pentagon.pdb
+C:\Users\pasha\source\repos\207ShulminPavel2\Module 3\Sem 7\CW\Break Pentagon\obj\Debug\netcoreapp3.1\Break Pentagon.csprojAssemblyReference.cache
+C:\Users\pasha\source\repos\207ShulminPavel2\Module 3\Sem 7\CW\Break Pentagon\obj\Debug\netcoreapp3.1\Break Pentagon.AssemblyInfoInputs.cache
+C:\Users\pasha\source\repos\207ShulminPavel2\Module 3\Sem 7\CW\Break Pentagon\obj\Debug\netcoreapp3.1\Break Pentagon.AssemblyInfo.cs
+C:\Users\pasha\source\repos\207ShulminPavel2\Module 3\Sem 7\CW\Break Pentagon\obj\Debug\netcoreapp3.1\Break Pentagon.csproj.CoreCompileInputs.cache
+C:\Users\pasha\source\repos\207ShulminPavel2\Module 3\Sem 7\CW\Break Pentagon\obj\Debug\netcoreapp3.1\Break Pentagon.dll
+C:\Users\pasha\source\repos\207ShulminPavel2\Module 3\Sem 7\CW\Break Pentagon\obj\Debug\netcoreapp3.1\Break Pentagon.pdb
+C:\Users\pasha\source\repos\207ShulminPavel2\Module 3\Sem 7\CW\Break Pentagon\obj\Debug\netcoreapp3.1\Break Pentagon.genruntimeconfig.cache
