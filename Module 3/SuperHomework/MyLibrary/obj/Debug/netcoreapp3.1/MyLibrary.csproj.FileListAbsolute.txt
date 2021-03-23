@@ -1,0 +1,9 @@
+C:\Users\pasha\source\repos\207ShulminPavel2\Module 3\SuperHomework\MyLibrary\bin\Debug\netcoreapp3.1\MyLibrary.deps.json
+C:\Users\pasha\source\repos\207ShulminPavel2\Module 3\SuperHomework\MyLibrary\bin\Debug\netcoreapp3.1\MyLibrary.dll
+C:\Users\pasha\source\repos\207ShulminPavel2\Module 3\SuperHomework\MyLibrary\bin\Debug\netcoreapp3.1\MyLibrary.pdb
+C:\Users\pasha\source\repos\207ShulminPavel2\Module 3\SuperHomework\MyLibrary\obj\Debug\netcoreapp3.1\MyLibrary.csprojAssemblyReference.cache
+C:\Users\pasha\source\repos\207ShulminPavel2\Module 3\SuperHomework\MyLibrary\obj\Debug\netcoreapp3.1\MyLibrary.AssemblyInfoInputs.cache
+C:\Users\pasha\source\repos\207ShulminPavel2\Module 3\SuperHomework\MyLibrary\obj\Debug\netcoreapp3.1\MyLibrary.AssemblyInfo.cs
+C:\Users\pasha\source\repos\207ShulminPavel2\Module 3\SuperHomework\MyLibrary\obj\Debug\netcoreapp3.1\MyLibrary.csproj.CoreCompileInputs.cache
+C:\Users\pasha\source\repos\207ShulminPavel2\Module 3\SuperHomework\MyLibrary\obj\Debug\netcoreapp3.1\MyLibrary.dll
+C:\Users\pasha\source\repos\207ShulminPavel2\Module 3\SuperHomework\MyLibrary\obj\Debug\netcoreapp3.1\MyLibrary.pdb
