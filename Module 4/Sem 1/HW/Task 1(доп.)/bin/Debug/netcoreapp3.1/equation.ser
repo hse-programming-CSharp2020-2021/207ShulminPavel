@@ -1,0 +1,65 @@
+<?xml version="1.0"?>
+<Quadratic xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <a>4</a>
+  <b>7</b>
+  <c>10</c>
+  <Discriminant>-111</Discriminant>
+  <X1>0</X1>
+  <X2>0</X2>
+</Quadratic><?xml version="1.0"?>
+<Quadratic xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <a>10</a>
+  <b>3</b>
+  <c>-4</c>
+  <Discriminant>169</Discriminant>
+  <X1>5</X1>
+  <X2>-8</X2>
+</Quadratic><?xml version="1.0"?>
+<Quadratic xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <a>7</a>
+  <b>6</b>
+  <c>-5</c>
+  <Discriminant>176</Discriminant>
+  <X1>3.6332495807107996</X1>
+  <X2>-9.6332495807108</X2>
+</Quadratic><?xml version="1.0"?>
+<Quadratic xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <a>6</a>
+  <b>-6</b>
+  <c>0</c>
+  <Discriminant>36</Discriminant>
+  <X1>6</X1>
+  <X2>0</X2>
+</Quadratic><?xml version="1.0"?>
+<Quadratic xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <a>-10</a>
+  <b>-2</b>
+  <c>-7</c>
+  <Discriminant>-276</Discriminant>
+  <X1>0</X1>
+  <X2>0</X2>
+</Quadratic><?xml version="1.0"?>
+<Quadratic xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <a>7</a>
+  <b>6</b>
+  <c>-3</c>
+  <Discriminant>120</Discriminant>
+  <X1>2.477225575051661</X1>
+  <X2>-8.477225575051662</X2>
+</Quadratic><?xml version="1.0"?>
+<Quadratic xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <a>1</a>
+  <b>5</b>
+  <c>-1</c>
+  <Discriminant>29</Discriminant>
+  <X1>0.19258240356725187</X1>
+  <X2>-5.192582403567252</X2>
+</Quadratic><?xml version="1.0"?>
+<Quadratic xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <a>4</a>
+  <b>-9</b>
+  <c>-7</c>
+  <Discriminant>193</Discriminant>
+  <X1>11.446221994724901</X1>
+  <X2>-2.446221994724902</X2>
+</Quadratic>
