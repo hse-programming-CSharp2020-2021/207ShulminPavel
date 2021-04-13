@@ -127,16 +127,16 @@ namespace Task1
     {
         static void Main(string[] args)
         {
-            Processing.WriteFile("equation.XML", 8);
+            Processing.WriteFile("equation.xml", 8);
             Console.WriteLine("Выполнена запись в режиме сериализации.");
             Console.WriteLine("Для вывода на экран нажмите любую клавишу.");
             Console.ReadKey(true);
             Console.WriteLine("В файле сведения о следующих уравнениях: ");
-            Processing.Process("equation.XML", new Qdelegate(Processing.PrintEq));
+            Processing.Process("equation.xml", new Qdelegate(Processing.PrintEq));
             Console.WriteLine("Для решения уравнений нажмите любую клавишу.");
             Console.ReadKey(true);
             Console.WriteLine("\r\nРешения уравнений с вещественными корнями: ");
-            Processing.Process("equation.ser", new Qdelegate(Processing.SolutionReal));
+            Processing.Process("equation.xml", new Qdelegate(Processing.SolutionReal));
             Console.WriteLine("Для завершения работы нажмите ENTER.");
             Console.ReadLine();
 

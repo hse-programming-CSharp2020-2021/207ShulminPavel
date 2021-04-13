@@ -1,65 +1,65 @@
 <?xml version="1.0"?>
 <Quadratic xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-  <a>3</a>
-  <b>-10</b>
-  <c>7</c>
-  <Discriminant>16</Discriminant>
-  <X1>7</X1>
-  <X2>3</X2>
-</Quadratic><?xml version="1.0"?>
-<Quadratic xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-  <a>-6</a>
-  <b>3</b>
-  <c>-8</c>
-  <Discriminant>-183</Discriminant>
-  <X1>0</X1>
-  <X2>0</X2>
-</Quadratic><?xml version="1.0"?>
-<Quadratic xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-  <a>-1</a>
-  <b>0</b>
-  <c>0</c>
-  <Discriminant>0</Discriminant>
-  <X1>0</X1>
-  <X2>0</X2>
-</Quadratic><?xml version="1.0"?>
-<Quadratic xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-  <a>-9</a>
-  <b>6</b>
-  <c>-3</c>
-  <Discriminant>-72</Discriminant>
-  <X1>0</X1>
-  <X2>0</X2>
-</Quadratic><?xml version="1.0"?>
-<Quadratic xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-  <a>-10</a>
-  <b>6</b>
-  <c>-7</c>
-  <Discriminant>-244</Discriminant>
+  <a>-7</a>
+  <b>2</b>
+  <c>-5</c>
+  <Discriminant>-136</Discriminant>
   <X1>0</X1>
   <X2>0</X2>
 </Quadratic><?xml version="1.0"?>
 <Quadratic xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <a>1</a>
-  <b>-9</b>
-  <c>7</c>
-  <Discriminant>53</Discriminant>
-  <X1>8.140054944640259</X1>
-  <X2>0.859945055359741</X2>
+  <b>3</b>
+  <c>-5</c>
+  <Discriminant>29</Discriminant>
+  <X1>1.1925824035672519</X1>
+  <X2>-4.192582403567252</X2>
 </Quadratic><?xml version="1.0"?>
 <Quadratic xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-  <a>-6</a>
-  <b>-10</b>
+  <a>5</a>
+  <b>-2</b>
+  <c>8</c>
+  <Discriminant>-156</Discriminant>
+  <X1>0</X1>
+  <X2>0</X2>
+</Quadratic><?xml version="1.0"?>
+<Quadratic xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <a>-2</a>
+  <b>5</b>
+  <c>10</c>
+  <Discriminant>105</Discriminant>
+  <X1>2.623475382979799</X1>
+  <X2>-7.623475382979799</X2>
+</Quadratic><?xml version="1.0"?>
+<Quadratic xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <a>7</a>
+  <b>-1</b>
+  <c>-8</c>
+  <Discriminant>225</Discriminant>
+  <X1>8</X1>
+  <X2>-7</X2>
+</Quadratic><?xml version="1.0"?>
+<Quadratic xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <a>10</a>
+  <b>3</b>
+  <c>-1</c>
+  <Discriminant>49</Discriminant>
+  <X1>2</X1>
+  <X2>-5</X2>
+</Quadratic><?xml version="1.0"?>
+<Quadratic xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <a>3</a>
+  <b>-4</b>
+  <c>3</c>
+  <Discriminant>-20</Discriminant>
+  <X1>0</X1>
+  <X2>0</X2>
+</Quadratic><?xml version="1.0"?>
+<Quadratic xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <a>10</a>
+  <b>-4</b>
   <c>4</c>
-  <Discriminant>196</Discriminant>
-  <X1>12</X1>
-  <X2>-2</X2>
-</Quadratic><?xml version="1.0"?>
-<Quadratic xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-  <a>-6</a>
-  <b>-8</b>
-  <c>-2</c>
-  <Discriminant>16</Discriminant>
-  <X1>6</X1>
-  <X2>2</X2>
+  <Discriminant>-144</Discriminant>
+  <X1>0</X1>
+  <X2>0</X2>
 </Quadratic>
