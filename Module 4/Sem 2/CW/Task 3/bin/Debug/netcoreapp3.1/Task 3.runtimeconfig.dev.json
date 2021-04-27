@@ -1,8 +1,4 @@
 {
-  "runtimeOptions": {
-    "additionalProbingPaths": [
-      "C:\\Users\\pasha\\.dotnet\\store\\|arch|\\|tfm|",
-      "C:\\Users\\pasha\\.nuget\\packages"
-    ]
-  }
+  "products": [],
+  "categories": []
 }
